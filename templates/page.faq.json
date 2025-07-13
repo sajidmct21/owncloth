@@ -1,0 +1,59 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "faq_gm_WKCFDw": {
+      "type": "faq-gm",
+      "blocks": {
+        "text_RWtCRU": {
+          "type": "text",
+          "settings": {
+            "question": "What is your name",
+            "answer": "<p>Sajid Yaqub</p>"
+          }
+        },
+        "text_B8tt8N": {
+          "type": "text",
+          "settings": {
+            "question": "Question text",
+            "answer": "<p>Answer richtext</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_RWtCRU",
+        "text_B8tt8N"
+      ],
+      "name": "Faq",
+      "settings": {
+        "heading": "Frequently Asked Questions",
+        "icon_color": "#fff",
+        "hover_color": "#EFEFEF",
+        "question_color": "#fff",
+        "background_color": "#a7a6d5",
+        "answer_color": "#000",
+        "answer_bg_color": "#fff",
+        "questions-font-size": 1.5
+      }
+    }
+  },
+  "order": [
+    "main",
+    "faq_gm_WKCFDw"
+  ]
+}

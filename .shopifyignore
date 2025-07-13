@@ -1,0 +1,2 @@
+# Ignore theme settings to avoid losing customizer changes
+config/settings_data.json
