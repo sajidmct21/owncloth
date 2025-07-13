@@ -36,7 +36,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify://shop_images/aiko-locket-necklace-limited-edition-466363.jpg",
+        "image": "shopify://shop_images/aiko-heart-locket-necklace-gold-filled-123557.jpg",
         "image_overlay_opacity": 0,
         "image_height": "large",
         "image_behavior": "ambient",
@@ -74,12 +74,12 @@
       "name": "Faq",
       "settings": {
         "heading": "Frequently Asked Questions",
-        "icon_color": "#fff",
-        "hover_color": "#EFEFEF",
-        "question_color": "#fff",
-        "background_color": "#D5CAA6",
-        "answer_color": "#000",
-        "answer_bg_color": "#fff",
+        "icon_color": "#ffffff",
+        "hover_color": "#efefef",
+        "question_color": "#ffffff",
+        "background_color": "#d5caa6",
+        "answer_color": "#000000",
+        "answer_bg_color": "#ffffff",
         "questions-font-size": 1.5
       }
     },
