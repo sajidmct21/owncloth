@@ -1,0 +1,28 @@
+
+
+<section class="{{ section.class }}">
+  <h2>{{ section.settings.title }}</h2>
+</section>
+
+{% schema %}
+{
+  "name": "My Second Section",
+  "tag": "section",
+  "class": "slideshow",
+  "settings": [
+    {
+      "type": "text",
+      "id": "title",
+      "label": "Slideshow"
+    }
+  ],
+  "presets": [
+    {
+      "name": "My Second Section",
+      "settings": {
+        "title": "Second Section"
+      }
+    }
+  ]
+}
+{% endschema %}
